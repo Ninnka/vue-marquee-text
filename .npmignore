@@ -2,7 +2,6 @@ build/
 config/
 static/
 node_modules/
-src/
 .git/
 
 .DS_Store
