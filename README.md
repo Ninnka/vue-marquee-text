@@ -1,6 +1,6 @@
 # vue-marquee-text
 
-> 移动端的支付密码输入组件
+> A vue component that simulate android:ellipsize="marquee" (一个模仿安卓文本跑马灯效果的Vue组件)
 
 ## 查看案例
 
